@@ -1,4 +1,4 @@
-package org.webskey.codingexecises;
+package org.webskey.codingexercises;
 
 public class MaxMinValueInArray {
 	public static int max(int[] tab) {

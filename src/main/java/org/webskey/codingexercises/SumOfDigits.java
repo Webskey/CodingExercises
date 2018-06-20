@@ -1,4 +1,4 @@
-package org.webskey.codingexecises;
+package org.webskey.codingexercises;
 
 class SumOfDigits {
 	public static int sum(int num) {

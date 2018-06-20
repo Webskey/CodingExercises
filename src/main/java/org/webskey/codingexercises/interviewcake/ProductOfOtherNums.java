@@ -1,4 +1,4 @@
-package org.webskey.codingexecises;
+package org.webskey.codingexercises.interviewcake;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package org.webskey.codingexecises;
+package org.webskey.codingexercises;
 
 public class DecToOctal {
 	public static int decToOctal(int num) {

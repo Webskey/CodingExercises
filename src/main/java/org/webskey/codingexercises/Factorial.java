@@ -1,4 +1,4 @@
-package org.webskey.codingexecises;
+package org.webskey.codingexercises;
 
 import java.math.BigInteger;
 import java.util.Scanner;

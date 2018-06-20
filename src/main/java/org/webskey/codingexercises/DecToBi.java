@@ -1,4 +1,4 @@
-package org.webskey.codingexecises;
+package org.webskey.codingexercises;
 
 public class DecToBi {
 	public static void decToBin(int n) {
